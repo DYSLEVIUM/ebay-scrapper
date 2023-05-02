@@ -1,6 +1,6 @@
 FROM node:alpine
 
-RUN apk update && apk add --no-cache make git python3
+RUN apk update && apk add --no-cache make git python3 python-pip
 
 WORKDIR '/usr/app'
 COPY ./package.json ./
