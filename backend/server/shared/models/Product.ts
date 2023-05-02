@@ -32,7 +32,10 @@ export class Product implements IProduct {
         );
     }
 
-    static exportToCsv(products: Product[], filePath: string): string {
+    static async exportToCsv(
+        products: Product[],
+        filePath: string
+    ): Promise<string> {
         const headings = Object.keys(products.length ? products[0] : {});
 
         // Convert products to an array of plain objects
@@ -68,6 +71,6 @@ export class Product implements IProduct {
         // Prepend the headings to the data array
         const dataWithHeadings = [headings, ...productData];
 
-        return writeCsvFile(filePath, dataWithHeadings);
+        return await writeCsvFile(filePath, dataWithHeadings);
     }
 }

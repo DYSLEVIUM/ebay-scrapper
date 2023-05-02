@@ -158,7 +158,7 @@ export class Scrapper {
                         await gmailTransporter.sendMail(
                             `New Items for ${this.keywords} found!`,
                             `Found ${differenceSet.length} new items.`,
-                            Product.exportToCsv(
+                            await Product.exportToCsv(
                                 this.newProductsSet,
                                 './newItems.csv'
                             )

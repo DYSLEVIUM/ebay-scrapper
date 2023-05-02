@@ -31,7 +31,7 @@ export const readCsvFile = <T>(filePath: string): Promise<T[]> => {
     });
 };
 
-export const writeCsvFile = <T>(filePath: string, rows: T[]) => {
+export const writeCsvFile = async <T>(filePath: string, rows: T[]) => {
     if (!rows) throw new Error('No rows provided.');
     if (!filePath) throw new Error('No filePath provided.');
 

@@ -6,5 +6,5 @@ export const enum ENDPOINTS {
     getStats = baseUrl + '/stats',
     stopScrapper = baseUrl + '/stop',
 }
-export const getStatsIntervalSec = 10;
-export const getDataIntervalSec = 10;
+export const getStatsIntervalSec = 30;
+export const getDataIntervalSec = 30;
