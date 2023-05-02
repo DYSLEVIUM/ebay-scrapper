@@ -2,7 +2,6 @@ import path from 'path';
 import { createLogger, format, transports } from 'winston';
 import 'winston-daily-rotate-file';
 import TransportStream from 'winston-transport';
-import { PROD } from '../constants/environments';
 
 const LOG_PATH = path.join(__dirname, '../../logs');
 
@@ -54,22 +53,22 @@ export const logger = createLogger({
     transports: getTransports(['info']),
 });
 
-if (!PROD) {
-    logger.add(
-        new transports.Console({
-            format: format.combine(
-                format.colorize(),
-                format.splat(),
-                format.timestamp({
-                    format: 'YYYY-MM-DD HH:mm:ss',
-                }),
-                format.printf(
-                    ({ timestamp, level, message, service }) =>
-                        `[${timestamp as string}] ${
-                            service as string
-                        } ${level}: ${message}`
-                )
-            ),
-        })
-    );
-}
+// if (!PROD) {
+logger.add(
+    new transports.Console({
+        format: format.combine(
+            format.colorize(),
+            format.splat(),
+            format.timestamp({
+                format: 'YYYY-MM-DD HH:mm:ss',
+            }),
+            format.printf(
+                ({ timestamp, level, message, service }) =>
+                    `[${timestamp as string}] ${
+                        service as string
+                    } ${level}: ${message}`
+            )
+        ),
+    })
+);
+// }
