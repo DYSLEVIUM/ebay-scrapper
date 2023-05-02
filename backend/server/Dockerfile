@@ -1,6 +1,8 @@
-FROM node:alpine
+# FROM node:alpine
 
-RUN apk update && apk add --no-cache gcc make git python3 py3-pip && ln -sf python3 /usr/bin/python
+FROM python3.11-nodejs18-alpine
+
+# RUN apk update && apk add --no-cache gcc make git python3 py3-pip && ln -sf python3 /usr/bin/python
 
 WORKDIR '/usr/app'
 COPY ./package.json ./
