@@ -4,13 +4,13 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.logger = void 0;
-const node_path_1 = __importDefault(require("node:path"));
+const path_1 = __importDefault(require("path"));
 const winston_1 = require("winston");
 require("winston-daily-rotate-file");
 const environments_1 = require("../constants/environments");
-const LOG_PATH = node_path_1.default.join(__dirname, '../../logs');
+const LOG_PATH = path_1.default.join(__dirname, '../../logs');
 const getLogFilePath = (filename) => {
-    return node_path_1.default.join(LOG_PATH, `botScrapper-%DATE%-${filename}.log`);
+    return path_1.default.join(LOG_PATH, `botScrapper-%DATE%-${filename}.log`);
 };
 const getTransportOptions = (logLevel) => {
     return {

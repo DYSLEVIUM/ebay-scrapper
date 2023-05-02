@@ -17,7 +17,7 @@ export class Scrapper {
     private productsSet: Product[] = [];
     private newProductsSet: Product[] = [];
 
-    private csvPath = path.resolve('../bot/output.csv');
+    private csvPath = path.resolve('./bot/output.csv');
 
     constructor(private keywords: string, private targetPrice: number = 1000) {}
 
@@ -44,7 +44,7 @@ export class Scrapper {
         const scrapper = spawn(
             '/opt/homebrew/bin/python3',
             [
-                path.resolve('../bot/main.py'),
+                path.resolve('./bot/main.py'),
                 this.targetPrice.toString(),
                 ...this.keywords.split(' '),
             ],

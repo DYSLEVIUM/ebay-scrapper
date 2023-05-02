@@ -13,8 +13,8 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Scrapper = void 0;
-const node_child_process_1 = require("node:child_process");
-const node_path_1 = __importDefault(require("node:path"));
+const child_process_1 = require("child_process");
+const path_1 = __importDefault(require("path"));
 const accessEnv_1 = require("../utils/accessEnv");
 const file_1 = require("../utils/file");
 const helper_1 = require("../utils/helper");
@@ -29,7 +29,7 @@ class Scrapper {
         this.shouldStop = false;
         this.productsSet = [];
         this.newProductsSet = [];
-        this.csvPath = node_path_1.default.resolve('../bot/output.csv');
+        this.csvPath = path_1.default.resolve('../bot/output.csv');
     }
     getStats() {
         logger_1.logger.info('Scrapper status:');
@@ -43,8 +43,8 @@ class Scrapper {
     }
     createScrapper() {
         logger_1.logger.info('Creating scrapper.');
-        const scrapper = (0, node_child_process_1.spawn)('/opt/homebrew/bin/python3', [
-            node_path_1.default.resolve('../bot/main.py'),
+        const scrapper = (0, child_process_1.spawn)('/opt/homebrew/bin/python3', [
+            path_1.default.resolve('../bot/main.py'),
             this.targetPrice.toString(),
             ...this.keywords.split(' '),
         ], { detached: true });

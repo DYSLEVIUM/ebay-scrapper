@@ -46,7 +46,7 @@ const logger_1 = require("./shared/utils/logger");
 dotenv.config();
 const startServer = () => __awaiter(void 0, void 0, void 0, function* () {
     try {
-        const PORT = parseInt((0, accessEnv_1.accessEnv)("API_PORT" /* Environment.API_PORT */, '3000'), 10);
+        const PORT = parseInt((0, accessEnv_1.accessEnv)("PORT" /* Environment.PORT */, '3000'), 10);
         const app = (0, express_2.default)();
         app.use(express_2.default.json());
         app.use(express_2.default.urlencoded({ extended: true }));
