@@ -150,7 +150,8 @@ export class Scrapper {
                     );
 
                     // if it is not the first run and we have new elements
-                    if (this.productsSet.length && differenceSet.length) {
+                    // if (this.productsSet.length && differenceSet.length) {
+                    if (differenceSet.length) {
                         this.newProductsSet = differenceSet;
 
                         // send mail for the new products

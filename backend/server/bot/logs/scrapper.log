@@ -556,3 +556,174 @@
 2023-05-02 20:02:01,897 INFO: Dumped data to CSV.
 2023-05-02 20:02:01,898 INFO: Scrapping for https://ebay.com done.
 2023-05-02 20:02:01,898 INFO: Done Scrapping.
+2023-05-02 22:18:46,095 INFO: Starting web scraping job.
+2023-05-02 22:18:46,096 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:18:46,096 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Whale/0.7.19.6
+2023-05-02 22:18:48,152 INFO: Waiting for 1.573212665589808 seconds.
+2023-05-02 22:18:49,731 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:18:49,731 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Vivaldi/1.8.770.56
+2023-05-02 22:18:51,556 INFO: Dumped data to CSV.
+2023-05-02 22:18:51,556 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:18:51,556 INFO: Done Scrapping.
+2023-05-02 22:19:15,493 INFO: Starting web scraping job.
+2023-05-02 22:19:15,493 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:19:15,493 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+2023-05-02 22:19:17,545 INFO: Waiting for 1.6608141430375116 seconds.
+2023-05-02 22:19:19,212 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:19:19,212 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+2023-05-02 22:19:20,997 INFO: Dumped data to CSV.
+2023-05-02 22:19:20,997 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:19:20,997 INFO: Done Scrapping.
+2023-05-02 22:20:37,318 INFO: Starting web scraping job.
+2023-05-02 22:20:37,318 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:20:37,319 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Sleipnir/6.2.12
+2023-05-02 22:20:39,220 INFO: Waiting for 1.9200788966108218 seconds.
+2023-05-02 22:20:41,145 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:20:41,146 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Sleipnir/6.2.12
+2023-05-02 22:20:43,011 INFO: Dumped data to CSV.
+2023-05-02 22:20:43,011 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:20:43,011 INFO: Done Scrapping.
+2023-05-02 22:21:07,234 INFO: Starting web scraping job.
+2023-05-02 22:21:07,234 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:21:07,234 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; AS; rv:11.0) like Gecko
+2023-05-02 22:21:09,353 INFO: Waiting for 1.5474332911493374 seconds.
+2023-05-02 22:21:10,906 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:21:10,906 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; AS; rv:11.0) like Gecko
+2023-05-02 22:21:12,522 INFO: Dumped data to CSV.
+2023-05-02 22:21:12,522 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:21:12,522 INFO: Done Scrapping.
+2023-05-02 22:21:37,277 INFO: Starting web scraping job.
+2023-05-02 22:21:37,278 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:21:37,278 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Whale/0.7.19.6
+2023-05-02 22:21:39,168 INFO: Waiting for 0.7842338696852764 seconds.
+2023-05-02 22:21:39,955 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:21:39,955 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Vivaldi/1.8.770.50
+2023-05-02 22:21:41,735 INFO: Dumped data to CSV.
+2023-05-02 22:21:41,735 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:21:41,735 INFO: Done Scrapping.
+2023-05-02 22:22:09,528 INFO: Starting web scraping job.
+2023-05-02 22:22:09,528 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:22:09,528 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+2023-05-02 22:22:11,380 INFO: Waiting for 1.5560658162216983 seconds.
+2023-05-02 22:22:12,942 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:22:12,942 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; AS; rv:11.0) like Gecko
+2023-05-02 22:22:14,844 INFO: Dumped data to CSV.
+2023-05-02 22:22:14,844 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:22:14,844 INFO: Done Scrapping.
+2023-05-02 22:22:39,539 INFO: Starting web scraping job.
+2023-05-02 22:22:39,540 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:22:39,540 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+2023-05-02 22:22:41,367 INFO: Waiting for 0.9995787164514711 seconds.
+2023-05-02 22:22:42,372 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:22:42,372 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.4
+2023-05-02 22:22:44,148 INFO: Dumped data to CSV.
+2023-05-02 22:22:44,148 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:22:44,148 INFO: Done Scrapping.
+2023-05-02 22:23:09,642 INFO: Starting web scraping job.
+2023-05-02 22:23:09,643 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:23:09,643 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Vivaldi/1.8.770.56
+2023-05-02 22:23:11,490 INFO: Waiting for 1.999707234025697 seconds.
+2023-05-02 22:23:13,495 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:23:13,496 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+2023-05-02 22:23:15,441 INFO: Dumped data to CSV.
+2023-05-02 22:23:15,441 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:23:15,441 INFO: Done Scrapping.
+2023-05-02 22:23:39,513 INFO: Starting web scraping job.
+2023-05-02 22:23:39,513 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:23:39,513 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 OPR/45.0.2552.888
+2023-05-02 22:23:41,541 INFO: Waiting for 1.4793600873755148 seconds.
+2023-05-02 22:23:43,026 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:23:43,027 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+2023-05-02 22:23:45,057 INFO: Dumped data to CSV.
+2023-05-02 22:23:45,057 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:23:45,057 INFO: Done Scrapping.
+2023-05-02 22:24:09,435 INFO: Starting web scraping job.
+2023-05-02 22:24:09,435 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:24:09,435 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Sleipnir/6.2.12
+2023-05-02 22:24:11,439 INFO: Waiting for 1.340871850179805 seconds.
+2023-05-02 22:24:12,785 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:24:12,786 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; AS; rv:11.0) like Gecko
+2023-05-02 22:24:14,956 INFO: Dumped data to CSV.
+2023-05-02 22:24:14,956 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:24:14,956 INFO: Done Scrapping.
+2023-05-02 22:24:39,399 INFO: Starting web scraping job.
+2023-05-02 22:24:39,399 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:24:39,399 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.4
+2023-05-02 22:24:41,641 INFO: Waiting for 1.8442390858170954 seconds.
+2023-05-02 22:24:43,491 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:24:43,491 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 OPR/45.0.2552.888
+2023-05-02 22:24:45,517 INFO: Dumped data to CSV.
+2023-05-02 22:24:45,517 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:24:45,517 INFO: Done Scrapping.
+2023-05-02 22:25:09,493 INFO: Starting web scraping job.
+2023-05-02 22:25:09,494 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:25:09,494 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+2023-05-02 22:25:11,534 INFO: Waiting for 0.7141686251540738 seconds.
+2023-05-02 22:25:12,254 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:25:12,254 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.4
+2023-05-02 22:25:14,121 INFO: Dumped data to CSV.
+2023-05-02 22:25:14,122 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:25:14,122 INFO: Done Scrapping.
+2023-05-02 22:25:39,633 INFO: Starting web scraping job.
+2023-05-02 22:25:39,633 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:25:39,633 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 OPR/45.0.2552.881
+2023-05-02 22:25:41,666 INFO: Waiting for 1.3973053650235048 seconds.
+2023-05-02 22:25:43,069 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:25:43,070 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+2023-05-02 22:25:45,132 INFO: Dumped data to CSV.
+2023-05-02 22:25:45,132 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:25:45,132 INFO: Done Scrapping.
+2023-05-02 22:26:09,613 INFO: Starting web scraping job.
+2023-05-02 22:26:09,613 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:26:09,613 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 OPR/45.0.2552.881
+2023-05-02 22:26:11,879 INFO: Waiting for 0.8301508296378752 seconds.
+2023-05-02 22:26:12,714 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:26:12,715 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 OPR/45.0.2552.898
+2023-05-02 22:26:14,662 INFO: Dumped data to CSV.
+2023-05-02 22:26:14,663 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:26:14,663 INFO: Done Scrapping.
+2023-05-02 22:26:39,521 INFO: Starting web scraping job.
+2023-05-02 22:26:39,521 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:26:39,521 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Whale/0.7.14.16
+2023-05-02 22:26:41,479 INFO: Waiting for 1.1286585942927676 seconds.
+2023-05-02 22:26:42,613 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:26:42,613 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 OPR/45.0.2552.888
+2023-05-02 22:26:44,581 INFO: Dumped data to CSV.
+2023-05-02 22:26:44,581 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:26:44,581 INFO: Done Scrapping.
+2023-05-02 22:27:09,914 INFO: Starting web scraping job.
+2023-05-02 22:27:09,914 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:27:09,914 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 OPR/45.0.2552.888
+2023-05-02 22:27:11,702 INFO: Waiting for 0.7190149237995103 seconds.
+2023-05-02 22:27:12,426 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:27:12,427 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 OPR/45.0.2552.888
+2023-05-02 22:27:14,487 INFO: Dumped data to CSV.
+2023-05-02 22:27:14,487 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:27:14,487 INFO: Done Scrapping.
+2023-05-02 22:27:39,640 INFO: Starting web scraping job.
+2023-05-02 22:27:39,641 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:27:39,641 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 OPR/45.0.2552.881
+2023-05-02 22:27:41,785 INFO: Waiting for 1.738263220402216 seconds.
+2023-05-02 22:27:43,529 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:27:43,529 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.4
+2023-05-02 22:27:45,574 INFO: Dumped data to CSV.
+2023-05-02 22:27:45,574 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:27:45,574 INFO: Done Scrapping.
+2023-05-02 22:28:09,999 INFO: Starting web scraping job.
+2023-05-02 22:28:09,999 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:28:09,999 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+2023-05-02 22:28:12,245 INFO: Waiting for 0.9222565601549233 seconds.
+2023-05-02 22:28:13,173 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:28:13,174 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 OPR/45.0.2552.881
+2023-05-02 22:28:15,675 INFO: Dumped data to CSV.
+2023-05-02 22:28:15,675 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:28:15,675 INFO: Done Scrapping.
+2023-05-02 22:28:39,472 INFO: Starting web scraping job.
+2023-05-02 22:28:39,472 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:28:39,472 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nvidia+gpu+3060&sacat=0&pgn=1&rt=nc with user-agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Sleipnir/6.2.12
+2023-05-02 22:28:41,425 INFO: Waiting for 1.2755811623441802 seconds.
+2023-05-02 22:28:42,706 INFO: Scrapping https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc for "nvidia+gpu+3060" with target price of $5000.0
+2023-05-02 22:28:42,706 INFO: Made request to https://ebay.com/sch/i.html?_from=R40&_nkw=nvidia+gpu+3060&sacat=0&_pgn=2&rt=nc with user-agent Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; AS; rv:11.0) like Gecko
+2023-05-02 22:28:44,684 INFO: Dumped data to CSV.
+2023-05-02 22:28:44,684 INFO: Scrapping for https://ebay.com done.
+2023-05-02 22:28:44,684 INFO: Done Scrapping.
