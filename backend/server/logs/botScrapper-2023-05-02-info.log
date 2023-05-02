@@ -873,3 +873,220 @@
 [2023-05-02 17:20:49] winston info: Request to get scraped data.
 [2023-05-02 17:21:58] winston info: Request to get scrapper stats.
 [2023-05-02 17:21:58] winston info: Request to get scraped data.
+[2023-05-02 19:56:48] winston info: Express Server running.
+[2023-05-02 19:56:48] winston info: Express Server running on PORT 3000
+[2023-05-02 19:56:48] winston info: Request to get scrapper stats.
+[2023-05-02 19:56:48] winston info: Request to get scraped data.
+[2023-05-02 19:57:59] winston info: Request to get scrapper stats.
+[2023-05-02 19:57:59] winston info: Request to get scraped data.
+[2023-05-02 19:58:40] winston info: Express Server running.
+[2023-05-02 19:58:40] winston info: Express Server running on PORT 3000
+[2023-05-02 19:58:48] winston info: Request to get scrapper stats.
+[2023-05-02 19:58:48] winston info: Request to get scraped data.
+[2023-05-02 19:59:13] winston info: Request to get scrapper stats.
+[2023-05-02 19:59:13] winston info: Request to get scraped data.
+[2023-05-02 19:59:13] winston info: Request to get scrapper stats.
+[2023-05-02 19:59:13] winston info: Request to get scraped data.
+[2023-05-02 19:59:24] winston info: Request to get scrapper stats.
+[2023-05-02 19:59:24] winston info: Request to get scraped data.
+[2023-05-02 19:59:24] winston info: Request to get scrapper stats.
+[2023-05-02 19:59:24] winston info: Request to get scraped data.
+[2023-05-02 19:59:33] winston info: Request to start scrape for keywords: "water bottle" and Target Price: $5000.
+[2023-05-02 19:59:33] winston info: Scrapper started with keywords: "water bottle" and Target Price: $5000.
+[2023-05-02 19:59:33] winston info: Creating scrapper.
+[2023-05-02 19:59:33] winston info: Successfully created scrapper.
+[2023-05-02 19:59:33] winston info: Request to get scrapper stats.
+[2023-05-02 19:59:33] winston info: Scrapper status:
+[2023-05-02 19:59:33] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 19:59:33] winston info: Request to get scraped data.
+[2023-05-02 19:59:33] winston info: Retrieved 0 products.
+[2023-05-02 19:59:34] winston info: Request to get scrapper stats.
+[2023-05-02 19:59:34] winston info: Scrapper status:
+[2023-05-02 19:59:34] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 19:59:34] winston info: Request to get scraped data.
+[2023-05-02 19:59:34] winston info: Retrieved 0 products.
+[2023-05-02 19:59:44] winston info: Request to get scrapper stats.
+[2023-05-02 19:59:44] winston info: Scrapper status:
+[2023-05-02 19:59:44] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 19:59:44] winston info: Request to get scraped data.
+[2023-05-02 19:59:44] winston info: Retrieved 0 products.
+[2023-05-02 19:59:45] winston info: Request to get scrapper stats.
+[2023-05-02 19:59:45] winston info: Scrapper status:
+[2023-05-02 19:59:45] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 19:59:45] winston info: Request to get scraped data.
+[2023-05-02 19:59:45] winston info: Retrieved 0 products.
+[2023-05-02 19:59:48] winston info: Request to get scrapper stats.
+[2023-05-02 19:59:48] winston info: Scrapper status:
+[2023-05-02 19:59:48] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 19:59:48] winston info: Request to get scraped data.
+[2023-05-02 19:59:48] winston info: Retrieved 0 products.
+[2023-05-02 19:59:55] winston info: Request to get scrapper stats.
+[2023-05-02 19:59:55] winston info: Scrapper status:
+[2023-05-02 19:59:55] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 19:59:55] winston info: Request to get scraped data.
+[2023-05-02 19:59:55] winston info: Retrieved 0 products.
+[2023-05-02 20:00:04] winston info: Request to get scrapper stats.
+[2023-05-02 20:00:04] winston info: Scrapper status:
+[2023-05-02 20:00:04] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 20:00:04] winston info: Request to get scraped data.
+[2023-05-02 20:00:04] winston info: Retrieved 0 products.
+[2023-05-02 20:00:06] winston info: Request to get scrapper stats.
+[2023-05-02 20:00:06] winston info: Scrapper status:
+[2023-05-02 20:00:06] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 20:00:06] winston info: Request to get scraped data.
+[2023-05-02 20:00:06] winston info: Retrieved 0 products.
+[2023-05-02 20:00:12] winston info: Scrapper exited with code 0 and signal null.
+[2023-05-02 20:00:12] winston info: Scrapper finished for "water bottle" with Target Price $5000 and execution time of 38.957 seconds.
+[2023-05-02 20:00:12] winston info: Retrieved 498 products from CSV.
+[2023-05-02 20:00:12] winston info: Waiting for 0 seconds for next scrapping.
+[2023-05-02 20:00:12] winston info: Creating scrapper.
+[2023-05-02 20:00:12] winston info: Successfully created scrapper.
+[2023-05-02 20:00:17] winston info: Request to get scrapper stats.
+[2023-05-02 20:00:17] winston info: Scrapper status:
+[2023-05-02 20:00:17] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 20:00:17] winston info: Request to get scraped data.
+[2023-05-02 20:00:17] winston info: Retrieved 0 products.
+[2023-05-02 20:00:30] winston info: Request to get scrapper stats.
+[2023-05-02 20:00:30] winston info: Scrapper status:
+[2023-05-02 20:00:30] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 20:00:30] winston info: Request to get scraped data.
+[2023-05-02 20:00:30] winston info: Retrieved 0 products.
+[2023-05-02 20:00:38] winston info: Request to get scrapper stats.
+[2023-05-02 20:00:38] winston info: Scrapper status:
+[2023-05-02 20:00:38] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 20:00:38] winston info: Request to get scraped data.
+[2023-05-02 20:00:38] winston info: Retrieved 0 products.
+[2023-05-02 20:00:40] winston info: Request to get scrapper stats.
+[2023-05-02 20:00:40] winston info: Scrapper status:
+[2023-05-02 20:00:40] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 20:00:40] winston info: Request to get scraped data.
+[2023-05-02 20:00:40] winston info: Retrieved 0 products.
+[2023-05-02 20:00:40] winston info: Request to get scrapper stats.
+[2023-05-02 20:00:40] winston info: Scrapper status:
+[2023-05-02 20:00:40] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 20:00:40] winston info: Request to get scraped data.
+[2023-05-02 20:00:40] winston info: Retrieved 0 products.
+[2023-05-02 20:00:44] winston info: Request to get scrapper stats.
+[2023-05-02 20:00:44] winston info: Scrapper status:
+[2023-05-02 20:00:44] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 20:00:44] winston info: Request to get scraped data.
+[2023-05-02 20:00:44] winston info: Retrieved 0 products.
+[2023-05-02 20:00:47] winston info: Request to get scrapper stats.
+[2023-05-02 20:00:47] winston info: Scrapper status:
+[2023-05-02 20:00:47] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 20:00:47] winston info: Request to get scraped data.
+[2023-05-02 20:00:47] winston info: Retrieved 0 products.
+[2023-05-02 20:00:48] winston info: Scrapper exited with code 0 and signal null.
+[2023-05-02 20:00:48] winston info: Scrapper finished for "water bottle" with Target Price $5000 and execution time of 75.136 seconds.
+[2023-05-02 20:00:48] winston info: Retrieved 506 products from CSV.
+[2023-05-02 20:00:48] winston info: Writing 157 to ./newItems.csv.
+[2023-05-02 20:00:48] winston info: New Items found: 156.
+[2023-05-02 20:00:48] winston info: Waiting for 0 seconds for next scrapping.
+[2023-05-02 20:00:48] winston info: Creating scrapper.
+[2023-05-02 20:00:48] winston info: Successfully created scrapper.
+[2023-05-02 20:00:52] winston info: Email sent from botuse14@gmail.com to toofanbehera8008@gmail.com, receiver2@email.com with response: 250 2.0.0 OK  1683037852 f20-20020a056a00229400b0063799398eb9sm21937119pfe.58 - gsmtp.
+[2023-05-02 20:00:56] winston info: Request to get scrapper stats.
+[2023-05-02 20:00:56] winston info: Scrapper status:
+[2023-05-02 20:00:56] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 20:00:56] winston info: Request to get scraped data.
+[2023-05-02 20:00:56] winston info: Retrieved 156 products.
+[2023-05-02 20:01:06] winston info: Request to get scrapper stats.
+[2023-05-02 20:01:06] winston info: Scrapper status:
+[2023-05-02 20:01:06] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 20:01:06] winston info: Request to get scraped data.
+[2023-05-02 20:01:06] winston info: Retrieved 156 products.
+[2023-05-02 20:01:17] winston info: Request to get scraped data.
+[2023-05-02 20:01:17] winston info: Retrieved 156 products.
+[2023-05-02 20:01:17] winston info: Request to get scrapper stats.
+[2023-05-02 20:01:17] winston info: Scrapper status:
+[2023-05-02 20:01:17] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 20:01:25] winston info: Scrapper exited with code 0 and signal null.
+[2023-05-02 20:01:25] winston info: Scrapper finished for "water bottle" with Target Price $5000 and execution time of 112.212 seconds.
+[2023-05-02 20:01:25] winston info: Retrieved 500 products from CSV.
+[2023-05-02 20:01:25] winston info: Writing 99 to ./newItems.csv.
+[2023-05-02 20:01:25] winston info: New Items found: 98.
+[2023-05-02 20:01:25] winston info: Waiting for 0 seconds for next scrapping.
+[2023-05-02 20:01:25] winston info: Creating scrapper.
+[2023-05-02 20:01:25] winston info: Successfully created scrapper.
+[2023-05-02 20:01:26] winston info: Request to get scrapper stats.
+[2023-05-02 20:01:26] winston info: Scrapper status:
+[2023-05-02 20:01:26] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 19:59:33 GMT+0530 (India Standard Time),
+	keywords: water bottle,
+	targetPrice: $5000
+[2023-05-02 20:01:26] winston info: Request to get scraped data.
+[2023-05-02 20:01:26] winston info: Retrieved 98 products.
+[2023-05-02 20:01:28] winston info: Email sent from botuse14@gmail.com to toofanbehera8008@gmail.com, receiver2@email.com with response: 250 2.0.0 OK  1683037888 x30-20020a056a00189e00b0063f2e729127sm19015755pfh.144 - gsmtp.
