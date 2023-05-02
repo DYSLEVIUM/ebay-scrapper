@@ -29,7 +29,7 @@ class Scrapper {
         this.shouldStop = false;
         this.productsSet = [];
         this.newProductsSet = [];
-        this.csvPath = path_1.default.resolve('../bot/output.csv');
+        this.csvPath = path_1.default.resolve('./bot/output.csv');
     }
     getStats() {
         logger_1.logger.info('Scrapper status:');
@@ -44,7 +44,7 @@ class Scrapper {
     createScrapper() {
         logger_1.logger.info('Creating scrapper.');
         const scrapper = (0, child_process_1.spawn)('/opt/homebrew/bin/python3', [
-            path_1.default.resolve('../bot/main.py'),
+            path_1.default.resolve('./bot/main.py'),
             this.targetPrice.toString(),
             ...this.keywords.split(' '),
         ], { detached: true });
