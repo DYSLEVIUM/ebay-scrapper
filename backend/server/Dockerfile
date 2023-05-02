@@ -13,6 +13,6 @@ RUN python3 -m pip install --upgrade pip
 RUN python3 -m pip install -r ./bot/requirements.txt
 RUN npm run build
 
-RUN chmod -r 777 /usr/app
+RUN CHMOD -R 777 /usr/app
 
 CMD ["node", "./dist/main.js"]
