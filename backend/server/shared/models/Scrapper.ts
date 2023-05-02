@@ -94,31 +94,6 @@ export class Scrapper {
     }
 
     async startScrapping() {
-        console.log(pythonPath);
-        {
-            const te = spawn('which', ['python3'], { detached: true });
-            // te.on('message', (data) => {
-            //     console.log('which python3 data', data.toString());
-            // });
-            te.stdout.on('data', (data) => {
-                console.log('stdout: ' + data);
-                data = data.toString();
-                console.log('which python3 data', data.toString());
-            });
-        }
-
-        {
-            const te = spawn('which', ['python'], { detached: true });
-            // te.on('message', (data) => {
-            //     console.log('which python data', data.toString());
-            // });
-            te.stdout.on('data', (data) => {
-                console.log('stdout: ' + data);
-                data = data.toString();
-                console.log('which python3 data', data.toString());
-            });
-        }
-
         if (this.status() === ScrapperStatus.RUNNING) return;
 
         this.shouldStop = false;
@@ -147,7 +122,7 @@ export class Scrapper {
                             resolve();
                         } else {
                             reject(
-                                new Error(`Scrapper exited with code ${code}l.`)
+                                new Error(`Scrapper exited with code ${code}.`)
                             );
                         }
                     });
