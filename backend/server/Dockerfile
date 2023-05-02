@@ -9,7 +9,7 @@ COPY ./package.json ./
 RUN npm install
 COPY . .
 
-RUN mkdir /usr/app/logs
+RUN mkdir -p /usr/app/logs
 
 RUN python3 -m pip install --upgrade pip
 RUN python3 -m pip install -r ./bot/requirements.txt
