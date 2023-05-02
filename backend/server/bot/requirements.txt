@@ -4,29 +4,29 @@
 #
 #    pip-compile
 #
-beautifulsoup4==4.11.2
+beautifulsoup4
     # via -r requirements.in
-certifi==2022.12.7
+certifi
     # via requests
-charset-normalizer==3.1.0
+charset-normalizer
     # via requests
-idna==3.4
+idna
     # via requests
-numpy==1.24.3
+numpy
     # via pandas
-pandas==2.0.0
+pandas
     # via -r requirements.in
-python-dateutil==2.8.2
+python-dateutil
     # via pandas
-pytz==2023.3
+pytz
     # via pandas
-requests==2.29.0
+requests
     # via -r requirements.in
-six==1.16.0
+six
     # via python-dateutil
-soupsieve==2.4.1
+soupsieve
     # via beautifulsoup4
-tzdata==2023.3
+tzdata
     # via pandas
-urllib3==1.26.15
+urllib3
     # via requests
