@@ -1,5 +1,5 @@
 import csvParser from 'csv-parser';
-import fs from 'node:fs';
+import fs from 'fs';
 import { logger } from './logger';
 
 export const removeFile = (path: string) => {

@@ -1,4 +1,4 @@
-import { ChildProcessWithoutNullStreams } from 'node:child_process';
+import { ChildProcessWithoutNullStreams } from 'child_process';
 
 import { Express, Router } from 'express';
 import { logger } from '../shared/utils/logger';

@@ -1,5 +1,5 @@
-import { ChildProcessWithoutNullStreams, spawn } from 'node:child_process';
-import path from 'node:path';
+import { ChildProcessWithoutNullStreams, spawn } from 'child_process';
+import path from 'path';
 import { Environment } from '../constants/environments';
 import { ScrapperStatus } from '../constants/status';
 import { CSVRow } from '../interfaces';

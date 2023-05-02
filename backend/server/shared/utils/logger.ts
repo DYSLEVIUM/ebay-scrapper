@@ -1,4 +1,4 @@
-import path from 'node:path';
+import path from 'path';
 import { createLogger, format, transports } from 'winston';
 import 'winston-daily-rotate-file';
 import TransportStream from 'winston-transport';
