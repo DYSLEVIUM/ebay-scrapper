@@ -18,7 +18,7 @@ dotenv.config();
 
 const startServer = async () => {
     try {
-        const PORT = parseInt(accessEnv(Environment.API_PORT, '3000'), 10);
+        const PORT = parseInt(accessEnv(Environment.PORT, '3000'), 10);
         const app = express();
 
         app.use(express.json());

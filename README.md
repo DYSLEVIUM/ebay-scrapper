@@ -19,7 +19,7 @@ path to config: ./backend/server/.env
 ```
 
 ```
-API_PORT=3000 -> port to run the server
+PORT=3000 -> port to run the server
 SLEEP_TIME_SECONDS=1800 -> max delay between subsequent scrapes
 SENDER_EMAIL=sender@gmail.com -> sender mail
 SENDER_PASSWORD=SENDER_APP_PASSWORD -> sender's google app password

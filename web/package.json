@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "prestart": "yarn install",
-    "build": "tsc && vite build",
+    "build": "yarn install && tsc && rm -rf ./dist && vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "start": "yarn run build && vite preview"
   },

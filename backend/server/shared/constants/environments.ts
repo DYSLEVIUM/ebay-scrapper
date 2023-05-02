@@ -1,7 +1,7 @@
 import { accessEnv } from '../utils/accessEnv';
 
 export const enum Environment {
-    API_PORT = 'API_PORT',
+    PORT = 'PORT',
     NODE_ENV = 'NODE_ENV',
     SLEEP_TIME_SECONDS = 'SLEEP_TIME_SECONDS',
     SENDER_EMAIL = 'SENDER_EMAIL',
