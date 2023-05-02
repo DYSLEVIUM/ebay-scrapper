@@ -11,6 +11,6 @@ COPY . .
 
 RUN python3 -m pip install --upgrade pip
 RUN python3 -m pip install -r ./bot/requirements.txt
-RUN npm build
+RUN npm run build
 
 CMD ["node", "./dist/main.js"]
