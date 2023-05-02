@@ -9,7 +9,10 @@ import { getGmailTransporter, setDifference, sleep } from '../utils/helper';
 import { logger } from '../utils/logger';
 import { Product } from './Product';
 
-const pythonPath = accessEnv('PYTHON_PATH', '/opt/homebrew/bin/python3');
+const pythonPath = accessEnv(
+    Environment.PYTHON_PATH,
+    '/opt/homebrew/bin/python3'
+);
 
 export class Scrapper {
     private startTime: Date | null = null;
@@ -91,6 +94,21 @@ export class Scrapper {
     }
 
     async startScrapping() {
+        console.log(pythonPath);
+        {
+            const te = spawn('which', ['python3'], { detached: true });
+            te.on('message', (data) => {
+                console.log('which python3 data', data.toString());
+            });
+        }
+
+        {
+            const te = spawn('which', ['python'], { detached: true });
+            te.on('message', (data) => {
+                console.log('which python data', data.toString());
+            });
+        }
+
         if (this.status() === ScrapperStatus.RUNNING) return;
 
         this.shouldStop = false;

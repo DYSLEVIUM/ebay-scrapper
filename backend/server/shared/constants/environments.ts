@@ -7,6 +7,7 @@ export const enum Environment {
     SENDER_EMAIL = 'SENDER_EMAIL',
     SENDER_PASSWORD = 'SENDER_PASSWORD',
     RECEIVER_EMAILS = 'RECEIVER_EMAILS',
+    PYTHON_PATH = 'PYTHON_PATH',
 }
 
 export const PROD =
