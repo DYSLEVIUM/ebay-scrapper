@@ -1,6 +1,6 @@
 # FROM node:alpine
 
-FROM python3.11-nodejs18-alpine
+FROM nikolaik/python-nodejs:latest
 
 # RUN apk update && apk add --no-cache gcc make git python3 py3-pip && ln -sf python3 /usr/bin/python
 
