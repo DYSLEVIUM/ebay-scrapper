@@ -1,0 +1,599 @@
+[2023-04-30 00:00:01] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:00:01] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $5000 and execution time of 113.858 seconds.
+[2023-04-30 00:00:01] winston info: Retrieved 136 products from CSV.
+[2023-04-30 00:00:01] winston info: Waiting for 6.171 seconds for next scrapping.
+[2023-04-30 00:00:03] winston info: Request to get scrapper stats.
+[2023-04-30 00:00:03] winston info: Scrapper status:
+[2023-04-30 00:00:03] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:00:07] winston info: Creating scrapper.
+[2023-04-30 00:00:07] winston info: Successfully created scrapper.
+[2023-04-30 00:00:13] winston info: Request to get scrapper stats.
+[2023-04-30 00:00:13] winston info: Scrapper status:
+[2023-04-30 00:00:13] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:00:17] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:00:17] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $5000 and execution time of 130.439 seconds.
+[2023-04-30 00:00:17] winston info: Retrieved 139 products from CSV.
+[2023-04-30 00:00:17] winston info: Waiting for 4.599 seconds for next scrapping.
+[2023-04-30 00:00:22] winston info: Creating scrapper.
+[2023-04-30 00:00:22] winston info: Successfully created scrapper.
+[2023-04-30 00:00:23] winston info: Request to get scrapper stats.
+[2023-04-30 00:00:23] winston info: Scrapper status:
+[2023-04-30 00:00:23] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:00:23] winston info: Request to get scraped data.
+[2023-04-30 00:00:23] winston info: Retrieved 1 products.
+[2023-04-30 00:00:30] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:00:30] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $5000 and execution time of 143.295 seconds.
+[2023-04-30 00:00:30] winston info: Retrieved 136 products from CSV.
+[2023-04-30 00:00:30] winston info: Waiting for 6.754 seconds for next scrapping.
+[2023-04-30 00:00:33] winston info: Request to get scrapper stats.
+[2023-04-30 00:00:33] winston info: Scrapper status:
+[2023-04-30 00:00:33] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:00:37] winston info: Creating scrapper.
+[2023-04-30 00:00:37] winston info: Successfully created scrapper.
+[2023-04-30 00:00:43] winston info: Request to get scrapper stats.
+[2023-04-30 00:00:43] winston info: Scrapper status:
+[2023-04-30 00:00:43] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:00:47] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:00:47] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $5000 and execution time of 160.171 seconds.
+[2023-04-30 00:00:47] winston info: Retrieved 128 products from CSV.
+[2023-04-30 00:00:47] winston info: Waiting for 4.879 seconds for next scrapping.
+[2023-04-30 00:00:52] winston info: Creating scrapper.
+[2023-04-30 00:00:52] winston info: Successfully created scrapper.
+[2023-04-30 00:00:53] winston info: Request to get scrapper stats.
+[2023-04-30 00:00:53] winston info: Scrapper status:
+[2023-04-30 00:00:53] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:00:53] winston info: Request to get scraped data.
+[2023-04-30 00:00:53] winston info: Retrieved 1 products.
+[2023-04-30 00:00:54] winston info: Request to get scrapper stats.
+[2023-04-30 00:00:54] winston info: Scrapper status:
+[2023-04-30 00:00:54] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:01:01] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:01:01] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $5000 and execution time of 174.162 seconds.
+[2023-04-30 00:01:01] winston info: Retrieved 135 products from CSV.
+[2023-04-30 00:01:01] winston info: Waiting for 5.895 seconds for next scrapping.
+[2023-04-30 00:01:04] winston info: Request to get scrapper stats.
+[2023-04-30 00:01:04] winston info: Scrapper status:
+[2023-04-30 00:01:04] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:01:07] winston info: Creating scrapper.
+[2023-04-30 00:01:07] winston info: Successfully created scrapper.
+[2023-04-30 00:01:15] winston info: Request to get scrapper stats.
+[2023-04-30 00:01:15] winston info: Scrapper status:
+[2023-04-30 00:01:15] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:01:16] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:01:16] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $5000 and execution time of 189 seconds.
+[2023-04-30 00:01:16] winston info: Retrieved 128 products from CSV.
+[2023-04-30 00:01:16] winston info: Waiting for 6.066 seconds for next scrapping.
+[2023-04-30 00:01:22] winston info: Creating scrapper.
+[2023-04-30 00:01:22] winston info: Successfully created scrapper.
+[2023-04-30 00:01:23] winston info: Request to get scraped data.
+[2023-04-30 00:01:23] winston info: Retrieved 1 products.
+[2023-04-30 00:01:25] winston info: Request to get scrapper stats.
+[2023-04-30 00:01:25] winston info: Scrapper status:
+[2023-04-30 00:01:25] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:01:31] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:01:31] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $5000 and execution time of 204.346 seconds.
+[2023-04-30 00:01:31] winston info: Retrieved 135 products from CSV.
+[2023-04-30 00:01:31] winston info: Waiting for 5.723 seconds for next scrapping.
+[2023-04-30 00:01:35] winston info: Request to get scrapper stats.
+[2023-04-30 00:01:35] winston info: Scrapper status:
+[2023-04-30 00:01:35] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:01:37] winston info: Creating scrapper.
+[2023-04-30 00:01:37] winston info: Successfully created scrapper.
+[2023-04-30 00:01:45] winston info: Request to get scrapper stats.
+[2023-04-30 00:01:45] winston info: Scrapper status:
+[2023-04-30 00:01:45] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:01:47] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:01:47] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $5000 and execution time of 219.92 seconds.
+[2023-04-30 00:01:47] winston info: Retrieved 133 products from CSV.
+[2023-04-30 00:01:47] winston info: Waiting for 5.151 seconds for next scrapping.
+[2023-04-30 00:01:52] winston info: Creating scrapper.
+[2023-04-30 00:01:52] winston info: Successfully created scrapper.
+[2023-04-30 00:01:53] winston info: Request to get scraped data.
+[2023-04-30 00:01:53] winston info: Retrieved 1 products.
+[2023-04-30 00:01:55] winston info: Request to get scrapper stats.
+[2023-04-30 00:01:55] winston info: Scrapper status:
+[2023-04-30 00:01:55] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:02:01] winston info: Request to get scrapper stats.
+[2023-04-30 00:02:01] winston info: Scrapper status:
+[2023-04-30 00:02:01] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:02:02] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:02:02] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $5000 and execution time of 234.751 seconds.
+[2023-04-30 00:02:02] winston info: Retrieved 138 products from CSV.
+[2023-04-30 00:02:02] winston info: Waiting for 5.323 seconds for next scrapping.
+[2023-04-30 00:02:07] winston info: Creating scrapper.
+[2023-04-30 00:02:07] winston info: Successfully created scrapper.
+[2023-04-30 00:02:10] winston info: Request to get scrapper stats.
+[2023-04-30 00:02:10] winston info: Scrapper status:
+[2023-04-30 00:02:10] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:02:18] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:02:18] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $5000 and execution time of 250.86 seconds.
+[2023-04-30 00:02:18] winston info: Retrieved 137 products from CSV.
+[2023-04-30 00:02:18] winston info: Waiting for 4.219 seconds for next scrapping.
+[2023-04-30 00:02:21] winston info: Request to get scrapper stats.
+[2023-04-30 00:02:21] winston info: Scrapper status:
+[2023-04-30 00:02:21] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:02:22] winston info: Creating scrapper.
+[2023-04-30 00:02:22] winston info: Successfully created scrapper.
+[2023-04-30 00:02:23] winston info: Request to get scraped data.
+[2023-04-30 00:02:23] winston info: Retrieved 1 products.
+[2023-04-30 00:02:31] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:02:31] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $5000 and execution time of 264.075 seconds.
+[2023-04-30 00:02:31] winston info: Retrieved 136 products from CSV.
+[2023-04-30 00:02:31] winston info: Waiting for 6.006 seconds for next scrapping.
+[2023-04-30 00:02:31] winston info: Request to get scrapper stats.
+[2023-04-30 00:02:31] winston info: Scrapper status:
+[2023-04-30 00:02:31] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:02:37] winston info: Creating scrapper.
+[2023-04-30 00:02:37] winston info: Successfully created scrapper.
+[2023-04-30 00:02:41] winston info: Request to get scrapper stats.
+[2023-04-30 00:02:41] winston info: Scrapper status:
+[2023-04-30 00:02:41] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:02:47] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:02:47] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $5000 and execution time of 279.745 seconds.
+[2023-04-30 00:02:47] winston info: Retrieved 129 products from CSV.
+[2023-04-30 00:02:47] winston info: Waiting for 5.336 seconds for next scrapping.
+[2023-04-30 00:02:51] winston info: Request to get scrapper stats.
+[2023-04-30 00:02:51] winston info: Scrapper status:
+[2023-04-30 00:02:51] winston info: 
+	status: Scrapper is running.,
+	startTime: Sat Apr 29 2023 23:58:07 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-04-30 00:02:52] winston info: Creating scrapper.
+[2023-04-30 00:02:52] winston info: Successfully created scrapper.
+[2023-04-30 00:02:53] winston info: Request to get scraped data.
+[2023-04-30 00:02:53] winston info: Retrieved 1 products.
+[2023-04-30 00:03:44] winston info: Express Server running.
+[2023-04-30 00:03:44] winston info: Express Server running on PORT 3000
+[2023-04-30 00:03:45] winston info: Request to get scrapper stats.
+[2023-04-30 00:03:45] winston info: Request to get scraped data.
+[2023-04-30 00:03:45] winston info: Request to get scrapper stats.
+[2023-04-30 00:03:45] winston info: Request to get scraped data.
+[2023-04-30 00:03:54] winston info: Request to start scrape for keywords: "nvidia gpu 3060" and Target Price: $50000.
+[2023-04-30 00:03:54] winston info: Scrapper started with keywords: "nvidia gpu 3060" and Target Price: $50000.
+[2023-04-30 00:03:54] winston info: Creating scrapper.
+[2023-04-30 00:03:54] winston info: Successfully created scrapper.
+[2023-04-30 00:03:55] winston info: Request to get scrapper stats.
+[2023-04-30 00:03:55] winston info: Scrapper status:
+[2023-04-30 00:03:55] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:04:04] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:04:04] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 9.75 seconds.
+[2023-04-30 00:04:04] winston info: Retrieved 140 products from CSV.
+[2023-04-30 00:04:04] winston info: Waiting for 5.245 seconds for next scrapping.
+[2023-04-30 00:04:06] winston info: Request to get scrapper stats.
+[2023-04-30 00:04:06] winston info: Scrapper status:
+[2023-04-30 00:04:06] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:04:09] winston info: Creating scrapper.
+[2023-04-30 00:04:09] winston info: Successfully created scrapper.
+[2023-04-30 00:04:16] winston info: Request to get scrapper stats.
+[2023-04-30 00:04:16] winston info: Scrapper status:
+[2023-04-30 00:04:16] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:04:16] winston info: Request to get scraped data.
+[2023-04-30 00:04:16] winston info: Retrieved 0 products.
+[2023-04-30 00:04:19] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:04:19] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 25.059 seconds.
+[2023-04-30 00:04:19] winston info: Retrieved 134 products from CSV.
+[2023-04-30 00:04:19] winston info: Waiting for 4.954 seconds for next scrapping.
+[2023-04-30 00:04:24] winston info: Creating scrapper.
+[2023-04-30 00:04:24] winston info: Successfully created scrapper.
+[2023-04-30 00:04:26] winston info: Request to get scrapper stats.
+[2023-04-30 00:04:26] winston info: Scrapper status:
+[2023-04-30 00:04:26] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:04:32] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:04:32] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 38.055 seconds.
+[2023-04-30 00:04:32] winston info: Retrieved 135 products from CSV.
+[2023-04-30 00:04:32] winston info: Writing 2 to ./newItems.csv.
+[2023-04-30 00:04:32] winston info: New Items found: 1.
+[2023-04-30 00:04:32] winston info: Waiting for 6.971 seconds for next scrapping.
+[2023-04-30 00:04:35] winston info: Email sent from toofanbehera8008@gmail.com to 2019ugcs097@nitjsr.ac.in, receiver2@email.com with response: 250 2.0.0 OK  1682793275 bo24-20020a17090b091800b002409bf5ddfasm3318192pjb.35 - gsmtp.
+[2023-04-30 00:04:36] winston info: Request to get scrapper stats.
+[2023-04-30 00:04:36] winston info: Scrapper status:
+[2023-04-30 00:04:36] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:04:39] winston info: Creating scrapper.
+[2023-04-30 00:04:39] winston info: Successfully created scrapper.
+[2023-04-30 00:04:46] winston info: Request to get scrapper stats.
+[2023-04-30 00:04:46] winston info: Scrapper status:
+[2023-04-30 00:04:46] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:04:46] winston info: Request to get scraped data.
+[2023-04-30 00:04:46] winston info: Retrieved 1 products.
+[2023-04-30 00:04:47] winston info: Request to get scrapper stats.
+[2023-04-30 00:04:47] winston info: Scrapper status:
+[2023-04-30 00:04:47] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:04:49] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:04:49] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 55.029 seconds.
+[2023-04-30 00:04:49] winston info: Retrieved 131 products from CSV.
+[2023-04-30 00:04:49] winston info: Writing 2 to ./newItems.csv.
+[2023-04-30 00:04:49] winston info: New Items found: 1.
+[2023-04-30 00:04:49] winston info: Waiting for 5.007 seconds for next scrapping.
+[2023-04-30 00:04:52] winston info: Email sent from toofanbehera8008@gmail.com to 2019ugcs097@nitjsr.ac.in, receiver2@email.com with response: 250 2.0.0 OK  1682793292 ix20-20020a170902f81400b001a3d041ca71sm15192511plb.275 - gsmtp.
+[2023-04-30 00:04:54] winston info: Creating scrapper.
+[2023-04-30 00:04:54] winston info: Successfully created scrapper.
+[2023-04-30 00:04:58] winston info: Request to get scrapper stats.
+[2023-04-30 00:04:58] winston info: Scrapper status:
+[2023-04-30 00:04:58] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:05:03] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:05:03] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 68.683 seconds.
+[2023-04-30 00:05:03] winston info: Retrieved 136 products from CSV.
+[2023-04-30 00:05:03] winston info: Waiting for 6.357 seconds for next scrapping.
+[2023-04-30 00:05:08] winston info: Request to get scrapper stats.
+[2023-04-30 00:05:08] winston info: Scrapper status:
+[2023-04-30 00:05:08] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:05:09] winston info: Creating scrapper.
+[2023-04-30 00:05:09] winston info: Successfully created scrapper.
+[2023-04-30 00:05:16] winston info: Request to get scraped data.
+[2023-04-30 00:05:16] winston info: Retrieved 1 products.
+[2023-04-30 00:05:18] winston info: Request to get scrapper stats.
+[2023-04-30 00:05:18] winston info: Scrapper status:
+[2023-04-30 00:05:18] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:05:19] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:05:19] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 84.529 seconds.
+[2023-04-30 00:05:19] winston info: Retrieved 137 products from CSV.
+[2023-04-30 00:05:19] winston info: Waiting for 5.515 seconds for next scrapping.
+[2023-04-30 00:05:24] winston info: Request to get scrapper stats.
+[2023-04-30 00:05:24] winston info: Scrapper status:
+[2023-04-30 00:05:24] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:05:24] winston info: Creating scrapper.
+[2023-04-30 00:05:24] winston info: Successfully created scrapper.
+[2023-04-30 00:05:35] winston info: Request to get scrapper stats.
+[2023-04-30 00:05:35] winston info: Scrapper status:
+[2023-04-30 00:05:35] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:05:40] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:05:40] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 106.057 seconds.
+[2023-04-30 00:05:40] winston info: Retrieved 132 products from CSV.
+[2023-04-30 00:05:40] winston info: Waiting for 0 seconds for next scrapping.
+[2023-04-30 00:05:40] winston info: Creating scrapper.
+[2023-04-30 00:05:40] winston info: Successfully created scrapper.
+[2023-04-30 00:05:45] winston info: Request to get scrapper stats.
+[2023-04-30 00:05:45] winston info: Scrapper status:
+[2023-04-30 00:05:45] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:05:46] winston info: Request to get scraped data.
+[2023-04-30 00:05:46] winston info: Retrieved 1 products.
+[2023-04-30 00:05:49] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:05:49] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 114.68 seconds.
+[2023-04-30 00:05:49] winston info: Retrieved 135 products from CSV.
+[2023-04-30 00:05:49] winston info: Waiting for 6.38 seconds for next scrapping.
+[2023-04-30 00:05:55] winston info: Request to get scrapper stats.
+[2023-04-30 00:05:55] winston info: Scrapper status:
+[2023-04-30 00:05:55] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:05:55] winston info: Creating scrapper.
+[2023-04-30 00:05:55] winston info: Successfully created scrapper.
+[2023-04-30 00:05:56] winston info: Request to get scrapper stats.
+[2023-04-30 00:05:56] winston info: Scrapper status:
+[2023-04-30 00:05:56] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:06:05] winston info: Request to get scrapper stats.
+[2023-04-30 00:06:05] winston info: Scrapper status:
+[2023-04-30 00:06:05] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:06:05] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:06:05] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 131.159 seconds.
+[2023-04-30 00:06:05] winston info: Retrieved 136 products from CSV.
+[2023-04-30 00:06:05] winston info: Waiting for 4.905 seconds for next scrapping.
+[2023-04-30 00:06:10] winston info: Creating scrapper.
+[2023-04-30 00:06:10] winston info: Successfully created scrapper.
+[2023-04-30 00:06:16] winston info: Request to get scrapper stats.
+[2023-04-30 00:06:16] winston info: Scrapper status:
+[2023-04-30 00:06:16] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:06:16] winston info: Request to get scraped data.
+[2023-04-30 00:06:16] winston info: Retrieved 1 products.
+[2023-04-30 00:06:19] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:06:19] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 145.082 seconds.
+[2023-04-30 00:06:19] winston info: Retrieved 129 products from CSV.
+[2023-04-30 00:06:19] winston info: Waiting for 5.987 seconds for next scrapping.
+[2023-04-30 00:06:25] winston info: Creating scrapper.
+[2023-04-30 00:06:25] winston info: Successfully created scrapper.
+[2023-04-30 00:06:26] winston info: Request to get scrapper stats.
+[2023-04-30 00:06:26] winston info: Scrapper status:
+[2023-04-30 00:06:26] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:06:31] winston info: Request to get scrapper stats.
+[2023-04-30 00:06:31] winston info: Scrapper status:
+[2023-04-30 00:06:31] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:06:34] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:06:34] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 160.196 seconds.
+[2023-04-30 00:06:34] winston info: Retrieved 138 products from CSV.
+[2023-04-30 00:06:34] winston info: Waiting for 5.874 seconds for next scrapping.
+[2023-04-30 00:06:40] winston info: Creating scrapper.
+[2023-04-30 00:06:40] winston info: Successfully created scrapper.
+[2023-04-30 00:06:42] winston info: Request to get scrapper stats.
+[2023-04-30 00:06:42] winston info: Scrapper status:
+[2023-04-30 00:06:42] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:06:46] winston info: Request to get scraped data.
+[2023-04-30 00:06:46] winston info: Retrieved 1 products.
+[2023-04-30 00:06:47] winston info: Request to get scrapper stats.
+[2023-04-30 00:06:47] winston info: Scrapper status:
+[2023-04-30 00:06:47] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:06:48] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:06:48] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 173.465 seconds.
+[2023-04-30 00:06:48] winston info: Retrieved 139 products from CSV.
+[2023-04-30 00:06:48] winston info: Waiting for 7.612 seconds for next scrapping.
+[2023-04-30 00:06:55] winston info: Creating scrapper.
+[2023-04-30 00:06:55] winston info: Successfully created scrapper.
+[2023-04-30 00:06:58] winston info: Request to get scrapper stats.
+[2023-04-30 00:06:58] winston info: Scrapper status:
+[2023-04-30 00:06:58] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:07:05] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:07:05] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 190.561 seconds.
+[2023-04-30 00:07:05] winston info: Retrieved 128 products from CSV.
+[2023-04-30 00:07:05] winston info: Waiting for 5.525 seconds for next scrapping.
+[2023-04-30 00:07:08] winston info: Request to get scrapper stats.
+[2023-04-30 00:07:08] winston info: Scrapper status:
+[2023-04-30 00:07:08] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:07:10] winston info: Creating scrapper.
+[2023-04-30 00:07:10] winston info: Successfully created scrapper.
+[2023-04-30 00:07:14] winston info: Request to get scrapper stats.
+[2023-04-30 00:07:14] winston info: Scrapper status:
+[2023-04-30 00:07:14] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:07:15] winston info: Request to get scraped data.
+[2023-04-30 00:07:15] winston info: Retrieved 1 products.
+[2023-04-30 00:07:20] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:07:20] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 206.049 seconds.
+[2023-04-30 00:07:20] winston info: Retrieved 137 products from CSV.
+[2023-04-30 00:07:20] winston info: Waiting for 5.041 seconds for next scrapping.
+[2023-04-30 00:07:21] winston info: Request to get scrapper stats.
+[2023-04-30 00:07:21] winston info: Scrapper status:
+[2023-04-30 00:07:21] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:07:25] winston info: Creating scrapper.
+[2023-04-30 00:07:25] winston info: Successfully created scrapper.
+[2023-04-30 00:07:32] winston info: Request to get scrapper stats.
+[2023-04-30 00:07:32] winston info: Scrapper status:
+[2023-04-30 00:07:32] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:07:34] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:07:34] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 219.809 seconds.
+[2023-04-30 00:07:34] winston info: Retrieved 132 products from CSV.
+[2023-04-30 00:07:34] winston info: Waiting for 6.285 seconds for next scrapping.
+[2023-04-30 00:07:34] winston info: Request to get scrapper stats.
+[2023-04-30 00:07:34] winston info: Scrapper status:
+[2023-04-30 00:07:34] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:07:40] winston info: Creating scrapper.
+[2023-04-30 00:07:40] winston info: Successfully created scrapper.
+[2023-04-30 00:07:44] winston info: Request to get scrapper stats.
+[2023-04-30 00:07:44] winston info: Scrapper status:
+[2023-04-30 00:07:44] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:07:46] winston info: Request to get scraped data.
+[2023-04-30 00:07:46] winston info: Retrieved 1 products.
+[2023-04-30 00:07:50] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:07:50] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 236.037 seconds.
+[2023-04-30 00:07:50] winston info: Retrieved 140 products from CSV.
+[2023-04-30 00:07:50] winston info: Waiting for 5.07 seconds for next scrapping.
+[2023-04-30 00:07:54] winston info: Request to get scrapper stats.
+[2023-04-30 00:07:54] winston info: Scrapper status:
+[2023-04-30 00:07:54] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:07:55] winston info: Creating scrapper.
+[2023-04-30 00:07:55] winston info: Successfully created scrapper.
+[2023-04-30 00:08:04] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:08:04] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 249.575 seconds.
+[2023-04-30 00:08:04] winston info: Retrieved 125 products from CSV.
+[2023-04-30 00:08:04] winston info: Waiting for 6.536 seconds for next scrapping.
+[2023-04-30 00:08:05] winston info: Request to get scrapper stats.
+[2023-04-30 00:08:05] winston info: Scrapper status:
+[2023-04-30 00:08:05] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:03:54 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:08:10] winston info: Creating scrapper.
+[2023-04-30 00:08:10] winston info: Successfully created scrapper.
+[2023-04-30 00:22:52] winston info: Express Server running.
+[2023-04-30 00:22:52] winston info: Express Server running on PORT 3000
+[2023-04-30 00:22:54] winston info: Request to get scrapper stats.
+[2023-04-30 00:22:56] winston info: Request to start scrape for keywords: "nvidia gpu 3060" and Target Price: $50000.
+[2023-04-30 00:22:56] winston info: Scrapper started with keywords: "nvidia gpu 3060" and Target Price: $50000.
+[2023-04-30 00:22:56] winston info: Creating scrapper.
+[2023-04-30 00:22:56] winston info: Successfully created scrapper.
+[2023-04-30 00:23:06] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:23:06] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 9.342 seconds.
+[2023-04-30 00:23:06] winston info: Retrieved 132 products from CSV.
+[2023-04-30 00:23:06] winston info: Waiting for 1790.652 seconds for next scrapping.
+[2023-04-30 00:23:17] winston info: Express Server running.
+[2023-04-30 00:23:17] winston info: Express Server running on PORT 3000
+[2023-04-30 00:23:18] winston info: Request to start scrape for keywords: "nvidia gpu 3060" and Target Price: $50000.
+[2023-04-30 00:23:18] winston info: Scrapper started with keywords: "nvidia gpu 3060" and Target Price: $50000.
+[2023-04-30 00:23:18] winston info: Creating scrapper.
+[2023-04-30 00:23:18] winston info: Successfully created scrapper.
+[2023-04-30 00:23:25] winston info: Request to get scrapper stats.
+[2023-04-30 00:23:25] winston info: Scrapper status:
+[2023-04-30 00:23:25] winston info: 
+	status: Scrapper is running.,
+	startTime: Sun Apr 30 2023 00:23:18 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $50000
+[2023-04-30 00:23:25] winston info: Request to get scraped data.
+[2023-04-30 00:23:25] winston info: Retrieved 0 products.
+[2023-04-30 00:23:27] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:23:27] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 8.379 seconds.
+[2023-04-30 00:23:27] winston info: Retrieved 136 products from CSV.
+[2023-04-30 00:23:27] winston info: Waiting for 1.615 seconds for next scrapping.
+[2023-04-30 00:23:28] winston info: Creating scrapper.
+[2023-04-30 00:23:28] winston info: Successfully created scrapper.
+[2023-04-30 00:23:37] winston info: Scrapper exited with code 0 and signal null.
+[2023-04-30 00:23:37] winston info: Scrapper finished for "nvidia gpu 3060" with Target Price $50000 and execution time of 18.546 seconds.
+[2023-04-30 00:23:37] winston info: Retrieved 135 products from CSV.
+[2023-04-30 00:23:37] winston info: Writing 6 to ./newItems.csv.
+[2023-04-30 00:23:37] winston info: New Items found: 5.
+[2023-04-30 00:23:37] winston info: Waiting for 1.454 seconds for next scrapping.

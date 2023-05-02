@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/pushpakantbehera/Desktop/webScrapper/backend/server/logs/.959e24d3e6bca76248ae9f3c7b5da7b5f85d2921-audit.json",
+    "files": [
+        {
+            "date": 1683008420431,
+            "name": "/Users/pushpakantbehera/Desktop/webScrapper/backend/server/logs/botScrapper-2023-05-02-info.log",
+            "hash": "1b22af6399900b24e56fe0b41e3e95f1d32cd42fe4c115edbffcb6b5aef63398"
+        }
+    ],
+    "hashType": "sha256"
+}

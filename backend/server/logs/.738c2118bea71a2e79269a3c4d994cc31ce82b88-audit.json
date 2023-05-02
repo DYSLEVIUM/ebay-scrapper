@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/pushpakantbehera/dev/freelancing/webScrapper/backend/server/logs/.738c2118bea71a2e79269a3c4d994cc31ce82b88-audit.json",
+    "files": [
+        {
+            "date": 1682789536147,
+            "name": "/Users/pushpakantbehera/dev/freelancing/webScrapper/backend/server/logs/botScrapper-2023-04-29-info.log",
+            "hash": "0720c75af54e46b475024b73f7f2a2721679be5e67961091cb826182f7d77147"
+        },
+        {
+            "date": 1682793001296,
+            "name": "/Users/pushpakantbehera/dev/freelancing/webScrapper/backend/server/logs/botScrapper-2023-04-30-info.log",
+            "hash": "916d05ce4829a71506abd7a1ccc155863abf7014d42bf65149c8b703c2675a8d"
+        }
+    ],
+    "hashType": "sha256"
+}
