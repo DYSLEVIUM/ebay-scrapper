@@ -749,3 +749,71 @@
 [2023-05-02 16:52:28] winston info: Creating scrapper.
 [2023-05-02 16:52:28] winston info: Successfully created scrapper.
 [2023-05-02 16:52:28] winston info: Scrapper exited with code 1 and signal null.
+[2023-05-02 16:58:59] winston info: Express Server running.
+[2023-05-02 16:58:59] winston info: Express Server running on PORT 3000
+[2023-05-02 16:59:04] winston info: Request to get scrapper stats.
+[2023-05-02 16:59:04] winston info: Request to get scraped data.
+[2023-05-02 16:59:08] winston info: Express Server running.
+[2023-05-02 16:59:08] winston info: Express Server running on PORT 3000
+[2023-05-02 16:59:14] winston info: Request to get scrapper stats.
+[2023-05-02 16:59:14] winston info: Request to get scraped data.
+[2023-05-02 16:59:24] winston info: Request to get scrapper stats.
+[2023-05-02 16:59:24] winston info: Request to get scraped data.
+[2023-05-02 16:59:34] winston info: Request to get scrapper stats.
+[2023-05-02 16:59:34] winston info: Request to get scraped data.
+[2023-05-02 16:59:44] winston info: Request to get scrapper stats.
+[2023-05-02 16:59:44] winston info: Request to get scraped data.
+[2023-05-02 16:59:48] winston info: Request to get scraped data.
+[2023-05-02 16:59:48] winston info: Request to get scrapper stats.
+[2023-05-02 16:59:54] winston info: Request to get scrapper stats.
+[2023-05-02 16:59:54] winston info: Request to get scraped data.
+[2023-05-02 17:00:04] winston info: Request to get scrapper stats.
+[2023-05-02 17:00:04] winston info: Request to get scraped data.
+[2023-05-02 17:00:14] winston info: Request to get scraped data.
+[2023-05-02 17:00:14] winston info: Request to get scrapper stats.
+[2023-05-02 17:00:24] winston info: Request to get scrapper stats.
+[2023-05-02 17:00:24] winston info: Request to get scraped data.
+[2023-05-02 17:00:34] winston info: Request to get scrapper stats.
+[2023-05-02 17:00:34] winston info: Request to get scraped data.
+[2023-05-02 17:00:44] winston info: Request to get scrapper stats.
+[2023-05-02 17:00:44] winston info: Request to get scraped data.
+[2023-05-02 17:00:48] winston info: Request to get scrapper stats.
+[2023-05-02 17:00:48] winston info: Request to get scraped data.
+[2023-05-02 17:00:54] winston info: Request to get scrapper stats.
+[2023-05-02 17:00:54] winston info: Request to get scraped data.
+[2023-05-02 17:01:04] winston info: Request to get scrapper stats.
+[2023-05-02 17:01:04] winston info: Request to get scraped data.
+[2023-05-02 17:01:14] winston info: Request to get scrapper stats.
+[2023-05-02 17:01:14] winston info: Request to get scraped data.
+[2023-05-02 17:01:24] winston info: Request to get scrapper stats.
+[2023-05-02 17:01:24] winston info: Request to get scraped data.
+[2023-05-02 17:01:34] winston info: Request to get scraped data.
+[2023-05-02 17:01:34] winston info: Request to get scrapper stats.
+[2023-05-02 17:01:44] winston info: Request to get scrapper stats.
+[2023-05-02 17:01:44] winston info: Request to get scraped data.
+[2023-05-02 17:01:54] winston info: Request to get scrapper stats.
+[2023-05-02 17:01:54] winston info: Request to get scraped data.
+[2023-05-02 17:01:57] winston info: Request to get scrapper stats.
+[2023-05-02 17:01:57] winston info: Request to get scraped data.
+[2023-05-02 17:02:04] winston info: Request to get scrapper stats.
+[2023-05-02 17:02:04] winston info: Request to get scraped data.
+[2023-05-02 17:02:14] winston info: Request to get scrapper stats.
+[2023-05-02 17:02:14] winston info: Request to get scraped data.
+[2023-05-02 17:02:24] winston info: Request to get scrapper stats.
+[2023-05-02 17:02:24] winston info: Request to get scraped data.
+[2023-05-02 17:02:34] winston info: Request to get scrapper stats.
+[2023-05-02 17:02:34] winston info: Request to get scraped data.
+[2023-05-02 17:02:44] winston info: Request to get scrapper stats.
+[2023-05-02 17:02:44] winston info: Request to get scraped data.
+[2023-05-02 17:02:48] winston info: Request to get scrapper stats.
+[2023-05-02 17:02:48] winston info: Request to get scraped data.
+[2023-05-02 17:02:54] winston info: Request to get scrapper stats.
+[2023-05-02 17:02:54] winston info: Request to get scraped data.
+[2023-05-02 17:02:56] winston info: Express Server running.
+[2023-05-02 17:02:56] winston info: Express Server running on PORT 3000
+[2023-05-02 17:03:04] winston info: Request to get scrapper stats.
+[2023-05-02 17:03:04] winston info: Request to get scraped data.
+[2023-05-02 17:03:14] winston info: Express Server running.
+[2023-05-02 17:03:14] winston info: Express Server running on PORT 3000
+[2023-05-02 17:03:24] winston info: Request to get scrapper stats.
+[2023-05-02 17:03:24] winston info: Request to get scraped data.

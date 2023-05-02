@@ -63,10 +63,8 @@ logger.add(
                 format: 'YYYY-MM-DD HH:mm:ss',
             }),
             format.printf(
-                ({ timestamp, level, message, service }) =>
-                    `[${timestamp as string}] ${
-                        service as string
-                    } ${level}: ${message}`
+                ({ timestamp, level, message, _service }) =>
+                    `[${timestamp as string}] ${level}: ${message}`
             )
         ),
     })

@@ -9,8 +9,7 @@ import { getGmailTransporter, setDifference, sleep } from '../utils/helper';
 import { logger } from '../utils/logger';
 import { Product } from './Product';
 
-// const pythonPath = '/opt/homebrew/bin/python3';
-const pythonPath = '/usr/bin/python';
+const pythonPath = accessEnv('PYTHON_PATH', '/opt/homebrew/bin/python3');
 
 export class Scrapper {
     private startTime: Date | null = null;
