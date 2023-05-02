@@ -9,6 +9,9 @@ import { getGmailTransporter, setDifference, sleep } from '../utils/helper';
 import { logger } from '../utils/logger';
 import { Product } from './Product';
 
+// const pythonPath = '/opt/homebrew/bin/python3';
+const pythonPath = spawn('which', ['python3']).stdout.toString().trim();
+
 export class Scrapper {
     private startTime: Date | null = null;
     private scrapper: ChildProcessWithoutNullStreams | null = null;
@@ -17,7 +20,7 @@ export class Scrapper {
     private productsSet: Product[] = [];
     private newProductsSet: Product[] = [];
 
-    private csvPath = path.resolve('./bot/output.csv');
+    private csvPath = path.resolve('../bot/output.csv');
 
     constructor(private keywords: string, private targetPrice: number = 1000) {}
 
@@ -42,9 +45,9 @@ export class Scrapper {
     private createScrapper() {
         logger.info('Creating scrapper.');
         const scrapper = spawn(
-            '/opt/homebrew/bin/python3',
+            pythonPath,
             [
-                path.resolve('./bot/main.py'),
+                path.resolve('../bot/main.py'),
                 this.targetPrice.toString(),
                 ...this.keywords.split(' '),
             ],
