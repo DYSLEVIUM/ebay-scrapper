@@ -648,3 +648,104 @@
 [2023-05-02 15:19:45] winston info: Email sent from botuse14@gmail.com to toofanbehera8008@gmail.com, receiver2@email.com with response: 250 2.0.0 OK  1683020986 t7-20020a656087000000b0050fa6546a45sm18237211pgu.6 - gsmtp.
 [2023-05-02 15:19:46] winston info: Creating scrapper.
 [2023-05-02 15:19:46] winston info: Successfully created scrapper.
+[2023-05-02 16:41:23] winston info: Express Server running.
+[2023-05-02 16:41:23] winston info: Express Server running on PORT 3000
+[2023-05-02 16:41:24] winston info: Request to get scrapper stats.
+[2023-05-02 16:41:24] winston info: Request to get scraped data.
+[2023-05-02 16:41:34] winston info: Request to start scrape for keywords: "nvidia gpu 3060" and Target Price: $5000.
+[2023-05-02 16:42:12] winston info: Express Server running.
+[2023-05-02 16:42:12] winston info: Express Server running on PORT 3000
+[2023-05-02 16:42:14] winston info: Request to get scrapper stats.
+[2023-05-02 16:42:14] winston info: Request to get scraped data.
+[2023-05-02 16:42:15] winston info: Request to start scrape for keywords: "nvidia gpu 3060" and Target Price: $5000.
+[2023-05-02 16:42:37] winston info: Express Server running.
+[2023-05-02 16:42:37] winston info: Express Server running on PORT 3000
+[2023-05-02 16:42:39] winston info: Request to start scrape for keywords: "nvidia gpu 3060" and Target Price: $5000.
+[2023-05-02 16:43:23] winston info: Express Server running.
+[2023-05-02 16:43:23] winston info: Express Server running on PORT 3000
+[2023-05-02 16:43:24] winston info: Request to start scrape for keywords: "nvidia gpu 3060" and Target Price: $5000.
+[2023-05-02 16:44:14] winston info: Express Server running.
+[2023-05-02 16:44:14] winston info: Express Server running on PORT 3000
+[2023-05-02 16:44:15] winston info: Request to get scrapper stats.
+[2023-05-02 16:44:15] winston info: Request to get scraped data.
+[2023-05-02 16:44:16] winston info: Request to start scrape for keywords: "nvidia gpu 3060" and Target Price: $5000.
+[2023-05-02 16:44:16] winston info: Scrapper started with keywords: "nvidia gpu 3060" and Target Price: $5000.
+[2023-05-02 16:44:16] winston info: Creating scrapper.
+[2023-05-02 16:44:16] winston info: Successfully created scrapper.
+[2023-05-02 16:44:16] winston error: Scrapper had a error. spawn [object Object] ENOENT
+[2023-05-02 16:44:16] winston error: Scrapper stopped unexpectedly. spawn [object Object] ENOENT
+[2023-05-02 16:44:16] winston error: Scrapper stopped unexpectedly.
+[2023-05-02 16:44:25] winston info: Request to get scrapper stats.
+[2023-05-02 16:44:25] winston info: Scrapper status:
+[2023-05-02 16:44:25] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 16:44:16 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-05-02 16:44:25] winston info: Request to get scraped data.
+[2023-05-02 16:44:25] winston info: Retrieved 0 products.
+[2023-05-02 16:44:35] winston info: Request to get scrapper stats.
+[2023-05-02 16:44:35] winston info: Scrapper status:
+[2023-05-02 16:44:35] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 16:44:16 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-05-02 16:44:35] winston info: Request to get scraped data.
+[2023-05-02 16:44:35] winston info: Retrieved 0 products.
+[2023-05-02 16:44:56] winston info: Express Server running.
+[2023-05-02 16:44:56] winston info: Express Server running on PORT 3000
+[2023-05-02 16:44:58] winston info: Request to start scrape for keywords: "nvidia gpu 3060" and Target Price: $5000.
+[2023-05-02 16:44:58] winston info: Scrapper started with keywords: "nvidia gpu 3060" and Target Price: $5000.
+[2023-05-02 16:44:58] winston info: Creating scrapper.
+[2023-05-02 16:44:59] winston info: Successfully created scrapper.
+[2023-05-02 16:44:59] winston error: Scrapper had a error. spawn [object Object] ENOENT
+[2023-05-02 16:44:59] winston error: Scrapper stopped unexpectedly. spawn [object Object] ENOENT
+[2023-05-02 16:45:05] winston info: Request to get scrapper stats.
+[2023-05-02 16:45:05] winston info: Scrapper status:
+[2023-05-02 16:45:05] winston info: 
+	status: Scrapper is running.,
+	startTime: Tue May 02 2023 16:44:58 GMT+0530 (India Standard Time),
+	keywords: nvidia gpu 3060,
+	targetPrice: $5000
+[2023-05-02 16:45:05] winston info: Request to get scraped data.
+[2023-05-02 16:45:05] winston info: Retrieved 0 products.
+[2023-05-02 16:46:33] winston info: Express Server running.
+[2023-05-02 16:46:33] winston info: Express Server running on PORT 3000
+[2023-05-02 16:46:36] winston info: Request to get scrapper stats.
+[2023-05-02 16:46:36] winston info: Request to get scraped data.
+[2023-05-02 16:46:44] winston info: Request to start scrape for keywords: "nvidia gpu 3060" and Target Price: $5000.
+[2023-05-02 16:48:00] winston info: Express Server running.
+[2023-05-02 16:48:00] winston info: Express Server running on PORT 3000
+[2023-05-02 16:48:01] winston info: Request to start scrape for keywords: "nvidia gpu 3060" and Target Price: $5000.
+[2023-05-02 16:48:17] winston info: Express Server running.
+[2023-05-02 16:48:17] winston info: Express Server running on PORT 3000
+[2023-05-02 16:48:20] winston info: Request to start scrape for keywords: "nvidia gpu 3060" and Target Price: $5000.
+[2023-05-02 16:50:45] winston info: Express Server running.
+[2023-05-02 16:50:45] winston info: Express Server running on PORT 3000
+[2023-05-02 16:50:47] winston info: Request to get scrapper stats.
+[2023-05-02 16:50:47] winston info: Request to get scraped data.
+[2023-05-02 16:50:48] winston info: Request to get scrapper stats.
+[2023-05-02 16:50:49] winston info: Request to get scraped data.
+[2023-05-02 16:50:57] winston info: Request to get scrapper stats.
+[2023-05-02 16:50:57] winston info: Request to get scraped data.
+[2023-05-02 16:51:07] winston info: Request to get scrapper stats.
+[2023-05-02 16:51:07] winston info: Request to get scraped data.
+[2023-05-02 16:51:17] winston info: Request to get scrapper stats.
+[2023-05-02 16:51:17] winston info: Request to get scraped data.
+[2023-05-02 16:51:27] winston info: Request to get scrapper stats.
+[2023-05-02 16:51:27] winston info: Request to get scraped data.
+[2023-05-02 16:51:37] winston info: Request to get scrapper stats.
+[2023-05-02 16:51:37] winston info: Request to get scraped data.
+[2023-05-02 16:51:44] winston info: Express Server running.
+[2023-05-02 16:51:44] winston info: Express Server running on PORT 3000
+[2023-05-02 16:51:54] winston info: Express Server running.
+[2023-05-02 16:51:54] winston info: Express Server running on PORT 3000
+[2023-05-02 16:52:01] winston info: Request to start scrape for keywords: "nvidia gpu 3060" and Target Price: $5000.
+[2023-05-02 16:52:26] winston info: Express Server running.
+[2023-05-02 16:52:26] winston info: Express Server running on PORT 3000
+[2023-05-02 16:52:28] winston info: Request to start scrape for keywords: "nvidia gpu 3060" and Target Price: $5000.
+[2023-05-02 16:52:28] winston info: Scrapper started with keywords: "nvidia gpu 3060" and Target Price: $5000.
+[2023-05-02 16:52:28] winston info: Creating scrapper.
+[2023-05-02 16:52:28] winston info: Successfully created scrapper.
+[2023-05-02 16:52:28] winston info: Scrapper exited with code 1 and signal null.

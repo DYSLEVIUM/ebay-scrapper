@@ -10,7 +10,7 @@ import { logger } from '../utils/logger';
 import { Product } from './Product';
 
 // const pythonPath = '/opt/homebrew/bin/python3';
-const pythonPath = spawn('which', ['python3']).stdout.toString().trim();
+const pythonPath = '/usr/bin/python';
 
 export class Scrapper {
     private startTime: Date | null = null;
@@ -193,6 +193,8 @@ export class Scrapper {
                 });
             } catch (err) {
                 logger.error('Scrapper stopped unexpectedly.', err);
+                this.stopScraping();
+                throw err;
             }
 
             if (this.scrapper) this.scrapper.kill();
