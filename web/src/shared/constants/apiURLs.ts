@@ -1,4 +1,4 @@
-const baseUrl = 'http://localhost:3000/api/scrapper';
+const baseUrl = 'https://ebay-scrapper-backend-1.onrender.com/api/scrapper';
 export const enum ENDPOINTS {
     startScrapper = baseUrl + '/start',
     getData = baseUrl + '/data',
